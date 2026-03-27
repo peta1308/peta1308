@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300/0d1117/ffffff?text=Emanuel+Peta+-+Software+Developer" alt="banner" width="90%" />
+  <img src="https://raw.githubusercontent.com/peta1308/peta1308/main/banner.png" 
+       alt="banner" 
+       height="250px"width="100%" height="250px" 
+       style="max-height:300px; object-fit:cover;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Emanuel</h1>
