@@ -115,8 +115,8 @@
 
 ---
 
-<h2 align="center">⚡ Frase</h2>
+<h2 align="center"> Frase</h2>
 
 <p align="center">
-"Construyendo proyectos reales mientras aprendo 🚀"
+"KLK mi loko te habla mitel bi"
 </p>
