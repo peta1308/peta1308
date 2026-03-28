@@ -54,12 +54,6 @@
 </p>
 
 ---
-
-<h2 align="center">🏆 Github Trophies</h2>
-<p align="center"> 
-<img src="https://github-profile-trophy.vercel.app/?username=peta1308&theme=onestar" />
-</p>
-
 ---
 
 <h2 align="center">🛠️ Tecnologías</h2>
