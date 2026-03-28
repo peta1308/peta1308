@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/peta1308/peta1308/main/banner.png" 
        alt="banner" 
-       height="250px"width="100%" height="250px" 
+       height="250px" width="100%" height="250px" 
        style="max-height:300px; object-fit:cover;" />
 </p>
 
@@ -16,37 +16,37 @@
 
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
 
-### 🚀 Sobre mí
+### 🚀 About Me
 
-* 💻 Estudiante de Desarrollo de Software
-* 🔥 Me enfoco en crear interfaces y aprender backend
-* 🤝 Me gusta colaborar en proyectos 
-* 📈 Actualmente en crecimiento constante
+* 💻 Software Development Student
+* 🔥 Focused on creating interfaces and learning backend
+* 🤝 I enjoy collaborating on projects
+* 📈 Currently in constant growth
 
 ---
 
-### 🧠 Actualmente aprendiendo
+### 🧠 Currently Learning
 
 * ⚙️ Spring Boot
-* 🔗 APIs REST
-* 🗄️ NoSql
+* 🔗 REST APIs
+* 🗄️ NoSQL
 
 ---
 
-### 💬 Pregúntame sobre
+### 💬 Ask Me About
 
 `Java` · `JavaScript` · `HTML` · `CSS` 
 
 ---
 
-### 📫 Contacto
+### 📫 Contact
 
-* 📧 (emanueluni1308@gmail.com)
-* 🌐 Portafolio: Próximamente
+* 📧 emanueluni1308@gmail.com
+* 🌐 Portfolio: Coming Soon
 
 ---
 
-<h3 align="left">Conecta conmigo:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/peta1308" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
@@ -54,9 +54,8 @@
 </p>
 
 ---
----
 
-<h2 align="center">🛠️ Tecnologías</h2>
+<h2 align="center">🛠️ Technologies</h2>
 
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
@@ -68,49 +67,56 @@
 
 ---
 
-<h2 align="center">📂 Proyectos Destacados</h2>
+<h2 align="center">📂 Featured Projects</h2>
 
 <table>
 <tr>
 <td width="50%">
-
 <h3>🎮 Game Oleadas</h3>
-
 <p>
 <a href="https://github.com/peta1308/Game-oleadas">
+<img src="https://img.shields.io/badge/Repository-View-blue?style=for-the-badge&logo=github" />
 </a>
 </p>
-
-<p>🧠 Juego en Java con enemigos dinámicos, lógica de combate y dificultad progresiva</p>
-
+<p>🧠 Java game with dynamic enemies, combat logic and progressive difficulty</p>
 </td>
 
 <td width="50%">
-
-<h3>🏙️ Sistema de Reportes Urbanos</h3>
-
+<h3>🏙️ Urban Reports System</h3>
 <p>
 <a href="https://github.com/Libardo07/reportes-urbanos">
+<img src="https://img.shields.io/badge/Repository-View-blue?style=for-the-badge&logo=github" />
 </a>
 </p>
-
-<p>🤝 Aplicación colaborativa con Spring Boot + JavaScript</p>
-
+<p>🤝 Collaborative application with Spring Boot + JavaScript</p>
 </td>
 </tr>
 </table>
----
-
-<br><br>
-
-
-
-</div>
 
 ---
 
-<h2 align="center"> Frase</h2>
+<h2 align="center">💭 Quote</h2>
 
 <p align="center">
-"KLK mi loko te habla mitel bi"
+"What's up bro, Mitel B speaking"
+</p>
+
+---
+
+---
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=peta1308&show_icons=true&theme=radical&hide_border=true" 
+       alt="GitHub Stats" 
+       height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peta1308&layout=compact&theme=radical&hide_border=true" 
+       alt="Top Languages" 
+       height="180" />
+</p>
+
+---
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=peta1308&theme=radical" alt="GitHub Streak" />
 </p>
