@@ -33,9 +33,9 @@
 
 ---
 
-### 💬 Ask Me About
+### 💬 Learning to use
 
-`Java` · `JavaScript` · `HTML` · `CSS` 
+`Java` · `JavaScript` · `HTML` 
 
 ---
 
@@ -62,7 +62,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+
 </p>
 
 ---
@@ -98,7 +98,7 @@
 <h2 align="center">💭 Quote</h2>
 
 <p align="center">
-"What's up bro, Mitel B speaking"
+"like the light of dawn, increasing and increasing"
 </p>
 
 ---
