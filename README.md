@@ -33,7 +33,7 @@
 
 ---
 
-### 💬 Learning to use
+### 💬 Technologies I work with
 
 `Java` · `JavaScript` · `HTML` 
 
